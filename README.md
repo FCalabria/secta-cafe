@@ -21,7 +21,7 @@ Y para ello, se definen las siguientes reglas:
 14. ¿Te estás meando/cagando? Deja el móvil aquí en la mesa, es por un tema ;)
 15. Dar una cápsula de café no se considera pagar el café. La gente civilizada va a una cafetería de verdad.
 16. Si enciendes la pantalla del móvil, no la miras, pero haces que otro la mire, pagas los cafes, por tonto.
-17. Si **no estás con la pandilla y escribes o llamas a alguien de la pandilla**, y esa persona mira el teléfono, paga cafés. Trolls gonna troll.
+17. Si **no estás con la pandilla y escribes o llamas a alguien de la pandilla**, y esa persona mira el teléfono, el que lo miró paga cafés. Trolls gonna troll.
 18. En caso de que una persona A lleve a comer con el grupo a una persona B, esta persona A es la responsable de hacer entender a B el funcionamiento de estas reglas. En caso de que dicha persona B incumpla las reglas porque A no le ha explicado esto, A será el responsable en última instancia, y por tanto la persona encargada de pagar los cafés.
 
 Se admiten pull request con modificaciones que deberán ser aprobadas por unanimidad.
