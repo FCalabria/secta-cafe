@@ -8,7 +8,7 @@ Y para ello, se definen las siguientes reglas:
 1. Se considera **período hábil de la comida** aquel comprendido desde que alguien de la pandilla mete el primer alimento en su boca y la última persona finaliza sus alimentos (no va a meter ningún otro alimento en su boca).
 2. Los **alimentos líquidos**, tales como gazpacho, sopa o caldo, también son considerados alimentos.
 3. Las **bebidas** (cerveza, agua, refrescos...) no son considerados comida. El período de risotadas previas al primer mordisco no es considerado período hábil de comida.
-4. El **pan** sí. Se siente. Si traen pan antes de servir el primer plato, y alguno de la pandilla toma aunque sea un corrosquillo, comienza el perído hábil de comida.
+4. El **pan** sí. Se siente. Si traen pan antes de servir el primer plato, y alguno de la pandilla toma aunque sea un corrosquillo, comienza el período hábil de comida.
 5. Tocar el **móvil apagado** no se considera uso del móvil.
 6. Encender el móvil por cualquier motivo sí se considera uso del móvil.
 7. Encender el móvil para **mirar la hora** sí se considera uso del móvil.
@@ -21,6 +21,7 @@ Y para ello, se definen las siguientes reglas:
 14. ¿Te estás meando/cagando? Deja el móvil aquí en la mesa, es por un tema ;)
 15. Dar una cápsula de café no se considera pagar el café. La gente civilizada va a una cafetería de verdad.
 16. Si enciendes la pantalla del móvil, no la miras, pero haces que otro la mire, pagas los cafes, por tonto.
-17. En caso de que una persona A lleve a comer con el grupo a una persona B, esta persona A es la responsable de hacer entender a B el funcionamiento de estas reglas. En caso de que dicha persona B incumpla las reglas porque A no le ha explicado esto, A será el responsable en última instancia, y por tanto la persona encargada de pagar los cafés.
+17. Si **no estás con la pandilla y escribes o llamas a alguien de la pandilla**, y esa persona mira el teléfono, paga cafés. Trolls gonna troll.
+18. En caso de que una persona A lleve a comer con el grupo a una persona B, esta persona A es la responsable de hacer entender a B el funcionamiento de estas reglas. En caso de que dicha persona B incumpla las reglas porque A no le ha explicado esto, A será el responsable en última instancia, y por tanto la persona encargada de pagar los cafés.
 
 Se admiten pull request con modificaciones que deberán ser aprobadas por unanimidad.
